@@ -70,10 +70,10 @@ Description:
 After AR Event has been triggered, information regarding Discovery Park(our school campus) will display to the screen. 
 
 # Non-Functional Requirements
-NF1. The system will run on Android 7.0 or above.
+NF1: The system will run on Android 7.0 or above.
 
-NF2. The system will utilize a graphical user interface.
+NF2: The system will utilize a graphical user interface.
 
-NF3. The system can analyze real life images and produce information based off of those 
+NF3: The system can analyze real life images and produce information based off of those 
 
 
