@@ -55,7 +55,7 @@ The HUD will allow users to view their coin balance and mission log.
 
 #### Coin Balance
 
-Coins are collected throughout the game’s campaign. The coins are used as a form of in-game currency to purchase clothing / accessories in the store page.
+Coins are collected throughout the game’s campaign. The coins are used as a form of in-game currency to purchase in-game skins in the store page.
 
 #### Mission Log
 
