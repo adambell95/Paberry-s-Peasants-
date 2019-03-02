@@ -5,6 +5,7 @@ Each Fall there is an orientation at Discovery Park for 1st-year students. It is
 The AR application will run on Android phones (see system requirements). As students play the game, they will learn about Discovery Park’s prominent locations. Ideally, at completion of the game students will no longer feel lost. In actuality, students will feel at home.
 
 In development by the Paberry-s-Peasants-
+https://developer.cloud.unity3d.com/orgs/adam_bell/projects/game/
 
 ## Table of Contents
 
